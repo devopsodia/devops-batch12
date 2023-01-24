@@ -3,3 +3,4 @@ edit for devops branch practical
 this is used for cloud related data branch.
 
 want to merge by terminal 
+this is used for doubt class on merge
