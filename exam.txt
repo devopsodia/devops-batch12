@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 my second data file
+=======
+hello stash
+>>>>>>> Stashed changes
